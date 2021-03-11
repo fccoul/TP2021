@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppRecaptcha2", "WebAppRecaptcha2.csproj", "{CC306352-4974-4CAB-917D-B1E079D66E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCRecaptchav3", "..\MVCRecaptchav3\MVCRecaptchav3.csproj", "{9B213ECB-E823-4F9F-AC6B-05FACE3C8937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC306352-4974-4CAB-917D-B1E079D66E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC306352-4974-4CAB-917D-B1E079D66E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC306352-4974-4CAB-917D-B1E079D66E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC306352-4974-4CAB-917D-B1E079D66E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B213ECB-E823-4F9F-AC6B-05FACE3C8937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B213ECB-E823-4F9F-AC6B-05FACE3C8937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B213ECB-E823-4F9F-AC6B-05FACE3C8937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B213ECB-E823-4F9F-AC6B-05FACE3C8937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE68EB05-EF1F-448B-AD7B-9CD9914FC458}
+	EndGlobalSection
+EndGlobal
